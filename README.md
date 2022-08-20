@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SirAndreRusso
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning basics of swift and UIKit
+- 🌱 I’m looking for a job
 - 💞️ I’m looking to collaborate on any project
 - 📫 sir.andre.russo@gmail.com
 <!---
